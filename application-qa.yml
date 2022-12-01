@@ -1,2 +1,2 @@
-property-file-name= qa
-property-file-description = qa environment file
+property-file.name= qa
+property-file.description = qa environment file
