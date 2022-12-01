@@ -1,2 +1,2 @@
-property-file-name = default
-property-file-description = default file with no suffix
+property-file.name = default
+property-file.description = default file with no suffix
