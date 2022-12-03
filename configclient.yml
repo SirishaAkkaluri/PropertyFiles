@@ -1,2 +1,2 @@
-property-file.name = default config client
-property-file.description = default file with no suffix from config client
+name = default config client
+description = default file with no suffix from config client
