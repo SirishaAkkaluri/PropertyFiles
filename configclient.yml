@@ -1,2 +1,2 @@
-name= test name
-description= test desc
+property-file.name = default config client
+property-file.description = default file with no suffix from config client
