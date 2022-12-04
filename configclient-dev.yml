@@ -1,2 +1,3 @@
 property-file.name: DEV NAME from configclient-dev.yml 444
 property-file.description: DEV DESC from configclient-dev.yml 444
+property-file.actuatorRefreshUrl: http://localhost:8100/actuator/refresh
