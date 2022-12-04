@@ -1,3 +1,3 @@
-property-file.name: TEST NAME from configclient-dev.yml 111
-property-file.description: TEST DESC from configclient-dev.yml 111
+property-file.name: TEST NAME from configclient-dev.yml 222
+property-file.description: TEST DESC from configclient-dev.yml 222
 property-file.actuatorRefreshUrl: http://localhost:8100/actuator/refresh
